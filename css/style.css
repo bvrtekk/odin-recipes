@@ -9,6 +9,42 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 34px;
+    color:rgb(189, 64, 64);
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    color:rgb(189, 64, 64);
+    text-align: center;
+}
+
+.Ingredients {
+    color:rgb(189, 64, 64);
+    font-size: 20px;
+    text-align: center;
+}
+
+.Steps {
+    color:rgb(189, 64, 64);
+    font-size: 20px;
+    text-align: center;
+}
+
+.ol1 {
+    display: inline-block;
+    text-align: left;
+}
+
+.description {
+    color:rgb(189, 64, 64);
+    font-size: 20px;
+    text-align: center;
+}
+
+
 .recipes-list {
     color:rgb(189, 64, 64);
     font-size: 20px;
@@ -17,6 +53,7 @@ h1 {
 
 .ul1 {
     display: inline-block;
+    text-align: left;
 }
 
 #disclaimer {
